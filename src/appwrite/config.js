@@ -24,7 +24,6 @@ export class Service{
                     featuredImage,
                     status,
                     userid: userId, 
-                     // Changed to match database schema
                 }
             )
         }
